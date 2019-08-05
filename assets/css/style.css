@@ -1,7 +1,5 @@
 .characteroptions {
-    height: 60px;
-    width: 60px;
-    margin: 0px;
-    padding: 0px;
-    
+    margin: 5px;
+    padding: 5px;
+    display: inline;
     }
